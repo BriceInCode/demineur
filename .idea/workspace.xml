@@ -4,18 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34597f71-9537-4912-aa92-85d3b9def1f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/models/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Board.java" afterDir="false" />
-    </list>
+    <list default="true" id="da0f8898-d033-49a9-9e75-ddebc4393474" name="New changelist" comment="" />
+    <list id="34597f71-9537-4912-aa92-85d3b9def1f6" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BriceInCode/demineur.git",
+    "accountId": "b35aa4f4-f9f7-4264-a248-ec6a135b909b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -40,6 +53,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,6 +87,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MinesweeperGUI" />
+        <item itemvalue="Application.MinesweeperGUI" />
       </list>
     </recent_temporary>
   </component>
@@ -85,17 +106,90 @@
       <created>1740608473303</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740608473303</updated>
+      <updated>1740711707967</updated>
       <workItem from="1740608474422" duration="1027000" />
       <workItem from="1740609566490" duration="50000" />
       <workItem from="1740609639334" duration="44000" />
       <workItem from="1740609702595" duration="1587000" />
       <workItem from="1740611502121" duration="75000" />
       <workItem from="1740706628696" duration="1099000" />
+      <workItem from="1740711707988" duration="90000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1740711397579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740711397579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1740711409759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740711409759</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New changelist">
+      <changelist id="" name="New changelist" comment="" />
+      <created>1740711626652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740711707967</updated>
+      <workItem from="1740711626906" duration="80000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="correction des bugs" />
+    <MESSAGE value="Corrige les erreurs de compilation dans la classe Board&#10;- Ajoute la déclaration manquante de la variable 'fields'&#10;- Implémente les méthodes manquantes : getMines(), getFields(), revealFields(), revealRecursively(), getNeighbours()&#10;- Assure la compatibilité et l'accessibilité des méthodes et champs nécessaires" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/models/Board.java</url>
+          <line>15</line>
+          <properties class="org.example.models.Board" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
