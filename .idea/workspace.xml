@@ -29,6 +29,12 @@
     "accountId": "b35aa4f4-f9f7-4264-a248-ec6a135b909b"
   }
 }]]></component>
+<<<<<<< HEAD
+=======
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
+  </component>
+>>>>>>> a4289e7ecdc3031b8274051f3db4dd57f028982f
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -113,6 +119,7 @@
       <workItem from="1740609702595" duration="1587000" />
       <workItem from="1740611502121" duration="75000" />
       <workItem from="1740706628696" duration="1099000" />
+<<<<<<< HEAD
       <workItem from="1740711707988" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
@@ -142,11 +149,25 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <option name="trackContextForNewChangelist" value="true" />
+=======
+      <workItem from="1740711855700" duration="444000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1740711989377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740711989377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> a4289e7ecdc3031b8274051f3db4dd57f028982f
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -191,5 +212,18 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+>>>>>>> a4289e7ecdc3031b8274051f3db4dd57f028982f
   </component>
 </project>
